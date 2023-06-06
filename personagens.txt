@@ -2,6 +2,10 @@ Luke Skywalker
 Obi Wan Kenobi
 Master Yoda
 Chewbacca
+Han Solo
+Darth Sidious
+Padmé Amidala
 C-3PO
 R2-D2
 Bb-8
+
