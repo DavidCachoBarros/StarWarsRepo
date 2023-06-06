@@ -10,3 +10,5 @@ R2-D2
 Bb-8
 Darth Sidious
 Grand Admiral Thrawn
+Rey
+Finn
