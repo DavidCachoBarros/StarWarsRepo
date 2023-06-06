@@ -8,4 +8,5 @@ Padmé Amidala
 C-3PO
 R2-D2
 Bb-8
-
+Darth Sidious
+Grand Admiral Thrawn
