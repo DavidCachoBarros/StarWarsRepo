@@ -3,3 +3,5 @@ Coruscan
 Endor
 Tatooine
 Hoth
+Jakku
+Corellia
